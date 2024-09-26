@@ -1,0 +1,39 @@
+
+
+.Click-here,.click-parichay-link,.custom-model-main,.designation p,.personalBio p,.profile-card,.profile-image,.row1 .wrapper,.username p,p{text-align:center}.close-btn,.close-modal,.connect-bt,a,button{cursor:pointer}*{border:0;box-sizing:border-box;-webkit-appearance:value;-moz-appearance:value;appearance:value;word-break:break-word}.body{font-family:Nunito,sans-serif!important;font-weight:400;scroll-behavior:smooth;background-color:#1f2130}.main{min-height:100%;max-width:400px;margin:0 auto;padding:0 0 50px}.profile-card{width:100%;max-height:212px;overflow:hidden;margin:0 auto;background:#000;border-radius:0 0 8px 8px}.profile-card img{width:100%;height:100%;display:block}.content-card{margin:-18px auto 0;max-width:92%;padding:0 15px;border:2px solid #8080807d;border-radius:11px;background:#1f2130}.content-card,.main,.profile-image{position:relative}.profile-image .profile-avatar{width:110px;height:110px;border-radius:50%;margin:-50px auto 0;border:1px solid #626262}.profile-image .company-logo{width:45px;height:45px;margin-left:0;border-radius:50%;border:2px solid #01086d;position:absolute;left:64%;top:58%;transform:translate(-50%,-50%)}.designation p span{color:#00bcd4}.personalBio,.profile-button{margin-bottom:20px}.personalBio p{font-size:18px;margin:12px 0 0;color:#9d9d9d}.profile-button{display:flex;justify-content:center;align-items:center}.profile-button .connect-btn,.profile-button .proflform-btn-profile{border-radius:30px;color:#fff;margin:5px;font-size:17px;font-weight:400;padding:15px 19px;background-color:#181924;border:.5px solid grey;text-transform:capitalize}.connect-btn a,.connect-btn a:hover{text-decoration:none;color:#fff}.row1{display:flex;flex-flow:wrap;max-width:100%;margin:19px auto;justify-content:space-evenly}a,img{-moz-tap-highlight-color:transparent}.row1 .wrapper{display:flex;flex-direction:column;overflow:hidden}.row1 .wrapper,.row1 img{margin:0 0 27px;width:27%}.row1 .wrapper img{width:100%;border-radius:1rem;margin:0 0 10px}.row1 .wrapper .alt-text{max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:#fff}.modal-container{display:none;position:fixed;inset:0;z-index:10000;background-color:rgba(0,0,0,.75);padding:40px;overflow:auto}.Click-here,.click-parichay-link,.get-button button{background-color:#00aff0;font-size:18px;width:300px;padding:8px 10px;left:50%;bottom:15px;transform:translateX(-50%);color:#fff}.get-button button{border:.5px solid grey;border-radius:31px;position:fixed}button,img{user-select:none;-webkit-user-drag:auto}a,button,input{transition:.3s ease-in;-moz-transition:.3s ease-in;-ms-transition:.3s ease-in;-o-transition:.3s ease-in;-webkit-transition:.3s ease-in}a,button,img,input,select,textarea{-webkit-tap-highlight-color:transparent}.username p{font-weight:600;margin:13px 0 10px}.designation p,.username p{font-size:20px;color:#fff;text-align:center}.click-parichay-link{border:.5px solid grey;border-radius:31px;position:fixed;text-decoration:none}.Click-here{border:.5px solid grey;border-radius:31px}.click-parichay-link a{text-underline-offset:none;text-decoration:none;color:#fff}.Click-here:hover{transition:background-image 3s ease-in-out}.click-parichay-link:hover{text-decoration:none;color:#fff;text-decoration:und}.custom-model-main{overflow:hidden;position:fixed;top:0;right:0;bottom:0;left:0;-webkit-overflow-scrolling:touch;outline:0;opacity:0;z-index:-1;overflow-x:hidden;overflow-y:auto}.model-open{z-index:99999;opacity:1;overflow:hidden}.custom-model-inner{-webkit-transform:translate(0,-25%);-ms-transform:translate(0,-25%);transform:translate(0,-25%);-webkit-transition:-webkit-transform .3s ease-out;-o-transition:transform .3s ease-out;transition:transform .3s ease-out;transition:transform .3s ease-out,-webkit-transform .3s ease-out;display:inline-block;vertical-align:middle;background-color:#fff;width:600px;margin:30px auto;max-width:97%}@media (max-width:450px){.model-open .custom-model-inner{padding-bottom:30px;padding-top:30px;width:100%!important;-webkit-transform:translate(0,0);-ms-transform:translate(0,0);transform:translate(0,0);position:relative;z-index:999}}.custom-model-wrap{width:100%!important;border:1px solid rgba(0,0,0,.2);border-radius:6px;outline:0;padding:20px;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:block;position:relative;background-color:#fff;-webkit-box-shadow:0 3px 9px rgba(0,0,0,.5);box-shadow:0 3px 9px rgba(0,0,0,.5);background-clip:padding-box;text-align:left;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;max-height:calc(100vh - 70px);overflow-y:auto}.model-open .custom-model-inner{padding:30px 20px;width:27%;-webkit-transform:translate(0,0);-ms-transform:translate(0,0);transform:translate(0,0);position:relative;z-index:999}.model-open .bg-overlay{background:rgba(0,0,0,.6);z-index:99}.bg-overlay{background:rgba(0,0,0,0);height:100vh;width:100%;position:fixed;left:0;top:0;right:0;bottom:0;z-index:0;-webkit-transition:background .15s linear;-o-transition:background .15s linear;transition:background .15s linear}.close-btn{position:absolute;right:7px;top:-4px;z-index:99;font-size:30px;color:#100f0f}@media screen and (min-width:800px){.custom-model-main:before{content:"";display:inline-block;vertical-align:middle;margin-right:0;height:100%}}@media screen and (max-width:799px){.custom-model-inner{margin-top:45px}}.input-group{width:100%;display:table;border-collapse:separate;position:relative;margin:0 0 15px}.input{width:100%;border:1.5px solid #9e9e9e;border-radius:5px;background:0 0;padding:12px 16px;font-size:14px;color:#222;transition:border 150ms cubic-bezier(.4, 0, .2, 1)}.connect-bt{width:50%;padding:2%;margin:4% 0;border-radius:20px;border:none;background-color:#000;color:#fff}.user-label{text-align:left}
+.bt-color{
+    
+    background-color: #00aff0;
+    font-size: 18px;
+    width: 300px;
+    padding: 8px 10px;
+    left: 50%;
+    bottom: 15px;
+    transform: translateX(-50%);
+    color: #fff;
+    border: .5px solid grey;
+    border-radius: 31px;
+}
+.bt-color a{
+    text-decoration: none;
+    color:white;
+}
+.parichay-bt{
+   margin-left:200px;
+}
+
+.profile-card{
+    background-image: url(../images/bhumika\ bansal.jpg);
+    width:100%;
+    height:300px;
+}
+margin-left: 50%;
+    background-color: #00aff0;
+    font-size: 18px;
+    width: 300px;
+    padding: 8px 10px;
+    left: 101%;
+    margin-top: 0px !important;
+    bottom: 15px;
+    transform: translateX(-50%);
+    color: #fff;
